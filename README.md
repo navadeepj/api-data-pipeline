@@ -45,3 +45,9 @@ The pipeline fetches data from a public API, processes and cleans the data, and 
 ```bash
 pip install requests
 python pipeline.py
+```
+
+## 🧠 Engineering Improvements
+- Modular pipeline design (Extract, Transform, Load functions)
+- Basic error handling for API failures and data issues
+- Structured and reusable code for scalability
